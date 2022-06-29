@@ -1,11 +1,14 @@
 /* eslint-disable */
 import "bootstrap";
+import "bootstrap";
 import "./style.css";
-
-import "./assets/img/rigo-baby.jpg";
-import "./assets/img/4geeks.ico";
+import "./style.css";
+import "./index.html";
+import "./index.html";
 
 window.onload = function() {
-  //write your code here
-  console.log("Hello Rigo from the console!");
+  //write your code here	  //write your code here
+
+  let pronoun = ["El", "Su"];
+  let adj = ["terrible", "rico"];
 };
